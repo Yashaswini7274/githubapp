@@ -1,5 +1,3 @@
-package com.bnmit;
-
 public class BankService {
 	
 	static class BankAccount {
